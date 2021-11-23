@@ -78,5 +78,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Time After Lazy Loading  
 ![Screenshot](/img/time1after.png) 
 ![Screenshot](/img/time2after.png)
-![Screenshot](/img/time3after.png) 
+![Screenshot](/img/time3after.png)  
+
+### Bundles Before Lazy Loading 
+![Screenshot](/img/bundle1.png) 
+![Screenshot](/img/bundle2.png)  
+![Screenshot](/img/bundle3.png) 
+
+### Bundles After Lazy Loading 
+![Screenshot](bundle1after.png) 
+![Screenshot](bundle2after.png)
+![Screenshot](bundle3after.png)
+
+
 
