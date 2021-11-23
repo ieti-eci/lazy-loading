@@ -73,4 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![Screenshot](/img/time1.png) 
 ![Screenshot](/img/time2.png)
-![Screenshot](/img/time3.png)
+![Screenshot](/img/time3.png) 
+
+### Time After Lazy Loading  
+![Screenshot](/img/time1after.png) 
+![Screenshot](/img/time2after.png)
+![Screenshot](/img/time3after.png) 
+
