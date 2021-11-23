@@ -86,9 +86,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![Screenshot](/img/bundle3.png) 
 
 ### Bundles After Lazy Loading 
-![Screenshot](bundle1after.png) 
-![Screenshot](bundle2after.png)
-![Screenshot](bundle3after.png)
+![Screenshot](/img/bundle1after.png) 
+![Screenshot](/img/bundle2after.png)
+![Screenshot](/img/bundle3after.png)
 
 
 
